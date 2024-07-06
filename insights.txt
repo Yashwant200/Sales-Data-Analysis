@@ -1,0 +1,53 @@
+Here are the key insights:-
+
+- The data contains sales transactions for accessories, clothing and bikes retailer, with details on customer demographics, product categories, quantities, costs, and revenue.
+
+- The top selling product category is Accessories in which Bike Racks, Fender, Helmets, Tires and Tubes grabes the highest total revenue.
+
+- If we talk about gender the majorities are male which is 51.07% and 48.93% are female customers.
+
+- Overall sale is 22M with the Profit margin of 10.1%
+
+
+- Sales are distributed throughout the year.
+  In the year 2015 total sales- 10M and Profit margin is 2.9%
+  And In the year 2016 total sales- 12M and Profit margin is 15.9%
+
+- We have highest total sale in United States with the Profit magrin of 6.8%
+
+  
+
+- In our sale highest customer from the age group of young and adult, they are execited in accessories category.
+  Customers in the 17-42 age range are also significant, with sales from Germany, France, and the UK.
+  From the old age group we have very less sales.
+
+
+- Touring Bikes are the most expensive product, with unit prices over $2,000[1]. Bike sales contribute substantially to revenue.
+
+
+- Gloves and Caps are the top selling clothing items.
+  Most of the clothes are sold in US.
+
+
+- The retailer offers competitive pricing, with unit prices typically 20-30% above unit costs.
+
+
+- The data shows a healthy bicycle accessories business catering primarily to female customers in the 29-42 age range, with Tires/Tubes, Helmets, and Touring Bikes driving the highest revenues.
+   The retailer maintains good margins while offering competitive pricing across a range of popular product categories.
+
+
+- In France states Seine (Paris), Seine Saint Denis and Essonne are generate highest revenue.
+  in this country total sale is 3M with 7.9% of profit margin.
+
+
+- In Germany Saarland, Hessen and hamburg are generate highest revenue.
+  in this country total sale is 4M with 22.6% of profit margin.
+
+
+- In UK states England generates highest revenue which is 6.4k
+  in this country total sale is 3M with 7.7% of profit margin.
+
+
+- In US statescalifornia, washington, and Oregon are generate highest revenue.
+  in this country total sale is 10M with 6.8% of profit margin.
+
